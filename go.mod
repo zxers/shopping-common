@@ -1,4 +1,4 @@
-module github.com/zxers/shopping-common
+module github.com/zxers/shopping-common-zx
 
 go 1.20
 
